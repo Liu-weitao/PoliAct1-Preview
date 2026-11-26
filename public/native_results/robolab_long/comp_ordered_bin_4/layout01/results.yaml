@@ -1,0 +1,13 @@
+franka:
+  CompOrderedBin4Task:
+    any_goal: 1/1
+    goal_progress: 4/4
+    goal_progress_best: 4/4
+    goal_regression: 0/4
+    grasp_churn: 3/4
+    instruction_churn: 1/4
+    order_violation: 0/1
+    steps_per_goal: 1279/4
+    success: 1/1
+    success_steps: 1281/1
+    success_terminal: 1/1

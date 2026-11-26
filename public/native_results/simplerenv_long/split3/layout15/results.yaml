@@ -1,0 +1,13 @@
+widowx:
+  split3-v0:
+    any_goal: 1/1
+    goal_progress: 3/3
+    goal_progress_best: 3/3
+    goal_regression: 0/3
+    grasp_churn: 3/3
+    instruction_churn: 1/3
+    order_violation: 0/1
+    steps_per_goal: 169/3
+    success: 1/1
+    success_steps: 169/1
+    success_terminal: 1/1

@@ -1,0 +1,6 @@
+episode_index: 1
+num_steps: 125
+success: true
+env_name: robot_arena_scene76_2goal
+default_instruction: put the metal pot and the mushroom toy on the yellow cloth
+instruction: put the metal pot and the mushroom toy on the yellow cloth

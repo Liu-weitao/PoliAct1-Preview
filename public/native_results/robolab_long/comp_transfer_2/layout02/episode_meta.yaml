@@ -1,0 +1,6 @@
+episode_index: 1
+num_steps: 483
+success: true
+env_name: CompTransfer2Task
+default_instruction: move the orange and the lemon from the plate to the bin
+instruction: move the orange and the lemon from the plate to the bin

@@ -1,0 +1,12 @@
+episode_index: 1
+num_steps: 473
+success: true
+env_name: relay7e-v0
+default_instruction: first put the carrot on the plate, then put the carrot on the
+  blue towel, then put the spoon on the plate, then put the spoon on the blue towel,
+  then put the eggplant on the plate, then put the eggplant on the blue towel, then
+  put the carrot on the plate
+instruction: first put the carrot on the plate, then put the carrot on the blue towel,
+  then put the spoon on the plate, then put the spoon on the blue towel, then put
+  the eggplant on the plate, then put the eggplant on the blue towel, then put the
+  carrot on the plate

@@ -1,0 +1,10 @@
+episode_index: 1
+num_steps: 2700
+success: false
+env_name: CompRelay3Task
+default_instruction: first put the lemon on the plate, then put the lemon in the bin,
+  then put the lime on the plate, then put the lime in the bin, then put the banana
+  on the plate, then put the banana in the bin
+instruction: first put the lemon on the plate, then put the lemon in the bin, then
+  put the lime on the plate, then put the lime in the bin, then put the banana on
+  the plate, then put the banana in the bin

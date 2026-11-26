@@ -1,0 +1,13 @@
+widowx:
+  robot_arena_scene76_2goal:
+    any_goal: 1/1
+    goal_progress: 2/2
+    goal_progress_best: 2/2
+    goal_regression: 0/2
+    grasp_churn: 2/2
+    instruction_churn: 1/2
+    order_violation: 0/1
+    steps_per_goal: 134/2
+    success: 1/1
+    success_steps: 134/1
+    success_terminal: 1/1

@@ -1,0 +1,14 @@
+franka:
+  CompRelay3Task:
+    any_goal: 1/1
+    failure_dropped: 0/1
+    failure_no_grasp: 0/1
+    failure_stuck: 1/1
+    goal_progress: 1/6
+    goal_progress_best: 1/6
+    goal_regression: 0/6
+    grasp_churn: 2/6
+    instruction_churn: 1/6
+    steps_per_goal: 172/1
+    success: 0/1
+    success_terminal: 0/1

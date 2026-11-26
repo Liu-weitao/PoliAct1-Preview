@@ -1,0 +1,22 @@
+# Local credentials and access files; never commit these.
+poliact1-access.json
+access.json
+*access*.json
+.env
+.env.*
+private/
+*-key.pem
+*.key
+
+# Generated evaluation data and local Python environments.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+out/
+sim_runs/
+*.log
+
+# Release archives belong in GitHub Releases, not the source tree.
+client-package.tar.gz
+*-github.zip

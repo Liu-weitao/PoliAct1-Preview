@@ -1,0 +1,8 @@
+episode_index: 1
+num_steps: 186
+success: true
+env_name: split3-v0
+default_instruction: put the carrot and the spoon on the plate and put the eggplant
+  on the blue towel
+instruction: put the carrot and the spoon on the plate and put the eggplant on the
+  blue towel

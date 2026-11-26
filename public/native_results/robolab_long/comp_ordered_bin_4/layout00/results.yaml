@@ -1,0 +1,15 @@
+franka:
+  CompOrderedBin4Task:
+    any_goal: 1/1
+    failure_dropped: 0/1
+    failure_no_grasp: 0/1
+    failure_stuck: 1/1
+    goal_progress: 2/4
+    goal_progress_best: 3/4
+    goal_regression: 1/4
+    grasp_churn: 7/4
+    instruction_churn: 1/4
+    recovery_rate: 0/1
+    steps_per_goal: 1590/3
+    success: 0/1
+    success_terminal: 0/1

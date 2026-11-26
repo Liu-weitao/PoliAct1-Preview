@@ -1,0 +1,14 @@
+widowx:
+  relay7e-v0:
+    any_goal: 1/1
+    failure_dropped: 1/1
+    failure_no_grasp: 0/1
+    failure_stuck: 1/1
+    goal_progress: 3/7
+    goal_progress_best: 3/7
+    goal_regression: 0/7
+    grasp_churn: 4/7
+    instruction_churn: 1/7
+    steps_per_goal: 165/3
+    success: 0/1
+    success_terminal: 0/1

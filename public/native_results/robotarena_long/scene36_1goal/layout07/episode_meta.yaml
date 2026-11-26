@@ -1,0 +1,6 @@
+episode_index: 1
+num_steps: 53
+success: true
+env_name: robot_arena_scene36_1goal
+default_instruction: put the fork in the pan.
+instruction: put the fork in the pan.

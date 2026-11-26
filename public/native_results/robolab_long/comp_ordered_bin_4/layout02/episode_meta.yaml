@@ -1,0 +1,8 @@
+episode_index: 1
+num_steps: 978
+success: true
+env_name: CompOrderedBin4Task
+default_instruction: first put the orange in the bin, then put the lemon in the bin,
+  then put the lime in the bin, then put the banana in the bin
+instruction: first put the orange in the bin, then put the lemon in the bin, then
+  put the lime in the bin, then put the banana in the bin

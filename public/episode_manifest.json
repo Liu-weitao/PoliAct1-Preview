@@ -1,0 +1,3703 @@
+{
+  "episodes": [
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_ordered_bin_4",
+        "episode": 0,
+        "success": false,
+        "subgoals_done": 2,
+        "subgoals": 4,
+        "steps": 2700
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_ordered_bin_4__layout00__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "7880682c07825096ea56242162651db5d44f1fceb5b5e9962fcd21644bd2a7bf",
+      "native_log": "native_results/robolab_long/comp_ordered_bin_4/layout00/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout00/episode_log.yaml",
+          "sha256": "17c62c93263d3b063e74edf511acc35fe2e09be18b94490f1cb21c1bd170d7c7",
+          "bytes": 95469
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout00/results.yaml",
+          "sha256": "e31cc78d38903ddf72000196c52247965e11e28bfb6065733fdd25e1f3e3dd56",
+          "bytes": 340
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout00/episode_meta.yaml",
+          "sha256": "7369ca490d4ab90367eb8c9574720ac4e2a22f1602397fba25f6e01188c5b5ac",
+          "bytes": 366
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_ordered_bin_4",
+        "episode": 1,
+        "success": true,
+        "subgoals_done": 4,
+        "subgoals": 4,
+        "steps": 1281
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_ordered_bin_4__layout01__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "35edb469333a82fcf31b0d8243de1c1bd63d2035ad245f8c17076393d95039f9",
+      "native_log": "native_results/robolab_long/comp_ordered_bin_4/layout01/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout01/episode_log.yaml",
+          "sha256": "693dac05d38bbd470e696f4cd75d49cf4b571945b39c3345d92c1e362b706ec3",
+          "bytes": 53655
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout01/results.yaml",
+          "sha256": "d1ff1121e5563024d50c69e510d51da47dff65633c9fd482f78c208c52889bd0",
+          "bytes": 294
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout01/episode_meta.yaml",
+          "sha256": "052e1ba53c18c0109b3a9cd218abbc452a5ab464cbb114c08925ed95e59b94a1",
+          "bytes": 365
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_ordered_bin_4",
+        "episode": 2,
+        "success": true,
+        "subgoals_done": 4,
+        "subgoals": 4,
+        "steps": 978
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_ordered_bin_4__layout02__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "eb72fcf42dfd368a7d205940980eb13f6c08823d96d7003e038c514811b54fad",
+      "native_log": "native_results/robolab_long/comp_ordered_bin_4/layout02/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout02/episode_log.yaml",
+          "sha256": "0f608da8aa861699cd0e9eaf448d0e62e3f2483bc34bc062680922901e6ca440",
+          "bytes": 43657
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout02/results.yaml",
+          "sha256": "ecde3dc182394c106ec217a72de7fcfc3dce309af86cc7a752672eb0db1cc366",
+          "bytes": 292
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout02/episode_meta.yaml",
+          "sha256": "3a66eaa3ffd19132913b59713f8e46795bf3928b1eeaded52937d52b6a052b16",
+          "bytes": 364
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_ordered_bin_4",
+        "episode": 3,
+        "success": true,
+        "subgoals_done": 4,
+        "subgoals": 4,
+        "steps": 855
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_ordered_bin_4__layout03__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "3fc3e8aad04eb51e46f289b2fc403290f482c34974bf56634bd9eb5447d37e8c",
+      "native_log": "native_results/robolab_long/comp_ordered_bin_4/layout03/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout03/episode_log.yaml",
+          "sha256": "6c78891ec6b1e978fda75abcb8d359c536b1cf366d086ea01e214789db339ccb",
+          "bytes": 39497
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout03/results.yaml",
+          "sha256": "5b2ddb3134ac401e0ee91ed860a9c80aa2f54f06f68281f7d87887bf0ab21ac9",
+          "bytes": 292
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout03/episode_meta.yaml",
+          "sha256": "2f17683edc891e93afc5ebde413d8cc9e7e6fa860e7755a7fa05190267db434d",
+          "bytes": 364
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_ordered_bin_4",
+        "episode": 4,
+        "success": true,
+        "subgoals_done": 4,
+        "subgoals": 4,
+        "steps": 854
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_ordered_bin_4__layout04__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "bc7f40f316e17744baf022ea8f7427e585a743d7f32655b8c2fe55bc0f175f52",
+      "native_log": "native_results/robolab_long/comp_ordered_bin_4/layout04/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout04/episode_log.yaml",
+          "sha256": "d3cfa72385798791f15f6228f9738b3ca898debb2e9031a02ce961356d579301",
+          "bytes": 39690
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout04/results.yaml",
+          "sha256": "b4dbd858327ee26a2b756cea51e3fbe826f63ba6406dc332b7b6ab1faf9a0e44",
+          "bytes": 292
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout04/episode_meta.yaml",
+          "sha256": "c5857f19617e64c31086a2df3651cfab377051394abbb0bf47c9f8d34c746f8f",
+          "bytes": 364
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_ordered_bin_4",
+        "episode": 5,
+        "success": true,
+        "subgoals_done": 4,
+        "subgoals": 4,
+        "steps": 1597
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_ordered_bin_4__layout05__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "da1d0346eb0dd45e05615e136db6b22dbb3a18a2bfc7858b2bb6cb80fabbb5b9",
+      "native_log": "native_results/robolab_long/comp_ordered_bin_4/layout05/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout05/episode_log.yaml",
+          "sha256": "8eb807511a56c2c61056c5f44a29a3d1703689e7d0b4d493a19ac9caee4038f0",
+          "bytes": 68477
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout05/results.yaml",
+          "sha256": "6fb0eff79eaea322d207f2b27419b1102b00ac120a7759ec4d6052ed8c9f0e67",
+          "bytes": 317
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout05/episode_meta.yaml",
+          "sha256": "d70c99ab9b9779f47e49c775eae2694173c27bef06075af9a5def47253025c2b",
+          "bytes": 365
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_ordered_bin_4",
+        "episode": 6,
+        "success": true,
+        "subgoals_done": 4,
+        "subgoals": 4,
+        "steps": 949
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_ordered_bin_4__layout06__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "2c036cee685067fd20984cef428061ddffa382428ea8f0be285dfd58051014b6",
+      "native_log": "native_results/robolab_long/comp_ordered_bin_4/layout06/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout06/episode_log.yaml",
+          "sha256": "b4579687a0737d10cadee9446431e569cb2c61dd068b5fff7a2ded85949bfa5a",
+          "bytes": 43993
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout06/results.yaml",
+          "sha256": "72954b67baa73fa2ed96875f045a08e85120d6a8ae119db2eeacbac8fa7081fa",
+          "bytes": 292
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout06/episode_meta.yaml",
+          "sha256": "582671ce7e829c7d77180dcb442a951341ab5f44fe01459e1cef2b5515cf983d",
+          "bytes": 364
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_ordered_bin_4",
+        "episode": 7,
+        "success": true,
+        "subgoals_done": 4,
+        "subgoals": 4,
+        "steps": 922
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_ordered_bin_4__layout07__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "bcba11dd8df8a5f18351c94f8ddd5a1aa385ae7c811cd0620f6a83181f499bb1",
+      "native_log": "native_results/robolab_long/comp_ordered_bin_4/layout07/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout07/episode_log.yaml",
+          "sha256": "1b394744b03a541aaae5826e913dd1b3b974dd783c1270912c613c5cb4aede13",
+          "bytes": 42665
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout07/results.yaml",
+          "sha256": "807f246424379a479b81e3ad082d44b0f80a6347f77f69e09784f148525e43cf",
+          "bytes": 292
+        },
+        {
+          "path": "native_results/robolab_long/comp_ordered_bin_4/layout07/episode_meta.yaml",
+          "sha256": "0b63e0302beab3f89a524365502cd47a8abbebaf4f0a711d68be27e6b628c4cd",
+          "bytes": 364
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_relay_3",
+        "episode": 0,
+        "success": true,
+        "subgoals_done": 6,
+        "subgoals": 6,
+        "steps": 1646
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_relay_3__layout00__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "30296699983e586e450feebbe56474900b9fc781a05595c88a9be5b1fcb79d1c",
+      "native_log": "native_results/robolab_long/comp_relay_3/layout00/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout00/episode_log.yaml",
+          "sha256": "c1d3da8a34acbce526ed042ab3aced109895ce138b68ccec9ac925f11ba0ba5d",
+          "bytes": 69463
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout00/results.yaml",
+          "sha256": "f42eebbc2c2b1dd94462f4f78261ef853f87caaa52e3ef3143119192d3471c0b",
+          "bytes": 289
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout00/episode_meta.yaml",
+          "sha256": "dd23ad6ea8c1ab2af1b65815ea5f22ab53d20bf276a6462a4d193d3678466b2a",
+          "bytes": 498
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_relay_3",
+        "episode": 1,
+        "success": true,
+        "subgoals_done": 6,
+        "subgoals": 6,
+        "steps": 1554
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_relay_3__layout01__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "4c8451e5686f0ea14b5e37cae6d23022a8b6be8bb5d73eb4c9fe6336af1d310e",
+      "native_log": "native_results/robolab_long/comp_relay_3/layout01/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout01/episode_log.yaml",
+          "sha256": "fe0bf9aaa871371108b6346a0954c103a4cc9f7852a740427f8de632b6ff88a4",
+          "bytes": 66568
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout01/results.yaml",
+          "sha256": "06e078e7c99bbc8c79f37843b1822f61b6afff867fb354f84d826a864ea6eb3c",
+          "bytes": 289
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout01/episode_meta.yaml",
+          "sha256": "88fdc849b0ffb28f2fb8d79df44efe6cbd853b34b8c714ca98285feff869e2d4",
+          "bytes": 498
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_relay_3",
+        "episode": 2,
+        "success": true,
+        "subgoals_done": 6,
+        "subgoals": 6,
+        "steps": 1409
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_relay_3__layout02__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "6c028248b119673d6f2f6a5fc43cf2aa34431a9c2faa7574b0019437f9dd5fcc",
+      "native_log": "native_results/robolab_long/comp_relay_3/layout02/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout02/episode_log.yaml",
+          "sha256": "11ad4320abf54855d06706ce9a1423d3b51bade68dcd0cb1bdf2c4948d85ea95",
+          "bytes": 64784
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout02/results.yaml",
+          "sha256": "60066fdc6a893a4066b5a8fb49cf2f6a7b895540837f37e3cca536e78dbe2771",
+          "bytes": 289
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout02/episode_meta.yaml",
+          "sha256": "0e33bb6b1c24232955b8354d1b339aa8713e72eed3db18b6dccf0dc2e3af3a87",
+          "bytes": 498
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_relay_3",
+        "episode": 3,
+        "success": true,
+        "subgoals_done": 6,
+        "subgoals": 6,
+        "steps": 1427
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_relay_3__layout03__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "a11d795fd97ac378667adb2f6113c079e26d648c0bab082496e9451915beeb03",
+      "native_log": "native_results/robolab_long/comp_relay_3/layout03/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout03/episode_log.yaml",
+          "sha256": "1a032687a37051535619f3a93580d9b7e478aacb9f8069e3af8435a05aede11e",
+          "bytes": 60849
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout03/results.yaml",
+          "sha256": "6ecbf88618497fdf8af8b7e19863072c8a02bbedc44658227d8ba8081e8acbad",
+          "bytes": 289
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout03/episode_meta.yaml",
+          "sha256": "050b6c0b9cd9afec031f8cf699227864cac8c89b238d80886a63fe7aea388ec5",
+          "bytes": 498
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_relay_3",
+        "episode": 4,
+        "success": true,
+        "subgoals_done": 6,
+        "subgoals": 6,
+        "steps": 1536
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_relay_3__layout04__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "334c5d83ebc73d2b005bfdc508aa3752adc33d53368015ad822aaa7597c3c8d5",
+      "native_log": "native_results/robolab_long/comp_relay_3/layout04/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout04/episode_log.yaml",
+          "sha256": "8c4bbade90fb6ab3496d98617b2d7d44dfc36ee346e565e27e603c8daa2c9bb5",
+          "bytes": 66049
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout04/results.yaml",
+          "sha256": "1e43e74068f06382d9e6865111b61e997fad2f6d9c3385b61fd99a3f27853bda",
+          "bytes": 289
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout04/episode_meta.yaml",
+          "sha256": "3bcaa06b2d4515fb2425f174e081ffcdd2e93fb4a6ba8bc5799af431b9b29814",
+          "bytes": 498
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_relay_3",
+        "episode": 5,
+        "success": true,
+        "subgoals_done": 6,
+        "subgoals": 6,
+        "steps": 2198
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_relay_3__layout05__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "0d2d32c8bd68d47ab77eded57f038cc42083afecba7bca9430b600aa81c91f2c",
+      "native_log": "native_results/robolab_long/comp_relay_3/layout05/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout05/episode_log.yaml",
+          "sha256": "548b241b64f03983fa521e3ae9697a5f8440c6517e93989f57ae961be42fadd3",
+          "bytes": 86654
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout05/results.yaml",
+          "sha256": "4a57d42db7b469eafc50c5bb411a8dfe90c736f591859d733cb509c3554ce04c",
+          "bytes": 289
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout05/episode_meta.yaml",
+          "sha256": "f7bee36afe915c36494ee99761d8ca45dde136065d20ec8bea88c75b27d2fb9c",
+          "bytes": 498
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_relay_3",
+        "episode": 6,
+        "success": false,
+        "subgoals_done": 1,
+        "subgoals": 6,
+        "steps": 2700
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_relay_3__layout06__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "6de08817ab6fd0fba805abe6058db73326e4feddb9f5f3ff35c4fe61009ec2db",
+      "native_log": "native_results/robolab_long/comp_relay_3/layout06/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout06/episode_log.yaml",
+          "sha256": "15aa467afc94fb98cf15df207165530df79b8b30296bbdc642820e1f5146b041",
+          "bytes": 63389
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout06/results.yaml",
+          "sha256": "fdcd741e5f3629aa5ed017a1ae6f4eee10caab17287fe3664d70b3672ea5116d",
+          "bytes": 311
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout06/episode_meta.yaml",
+          "sha256": "42eb2c77df5131fff64b2281ff244a3b10c73e60f2bed5c7bd8d8e1ab1bb5e44",
+          "bytes": 499
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_relay_3",
+        "episode": 7,
+        "success": false,
+        "subgoals_done": 1,
+        "subgoals": 6,
+        "steps": 2700
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_relay_3__layout07__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "07d59ea643b4700067b93150716a022c07950091c696b505118c60a537890ab8",
+      "native_log": "native_results/robolab_long/comp_relay_3/layout07/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout07/episode_log.yaml",
+          "sha256": "fc3a6ef04214241dd12b75390577ad38c5fe7642b4a78d1551d3c8cd88113c86",
+          "bytes": 54997
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout07/results.yaml",
+          "sha256": "10a85012f94f69c92f51dd93c21122ffdcffb433ff93b1de884cdf7e458a4100",
+          "bytes": 311
+        },
+        {
+          "path": "native_results/robolab_long/comp_relay_3/layout07/episode_meta.yaml",
+          "sha256": "42eb2c77df5131fff64b2281ff244a3b10c73e60f2bed5c7bd8d8e1ab1bb5e44",
+          "bytes": 499
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_route_10",
+        "episode": 0,
+        "success": false,
+        "subgoals_done": 0,
+        "subgoals": 10,
+        "steps": 4950
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_route_10__layout00__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "c61fbdf318fe5e34f15dd1e809f772280a7040e7dfe5f052c39b4064433c6d52",
+      "native_log": "native_results/robolab_long/comp_route_10/layout00/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout00/episode_log.yaml",
+          "sha256": "bd3fef88034c817852e8ef813c8593ce8e16e8f5cb73ad304a4decfc8ed7e6cc",
+          "bytes": 110383
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout00/results.yaml",
+          "sha256": "268464dd0c21ac9f6d09988a98c76b411c2a99559f4b03e460be2006a297608d",
+          "bytes": 342
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout00/episode_meta.yaml",
+          "sha256": "61dd3710ece30bdddba02446e17b0b578d06c78b128154deaecb6f8b838028fc",
+          "bytes": 420
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_route_10",
+        "episode": 1,
+        "success": false,
+        "subgoals_done": 8,
+        "subgoals": 10,
+        "steps": 4950
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_route_10__layout01__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "abba49b236ea46de6ca3b38ef69e490a341a537f9f40ca5ec6fd1a0691b35083",
+      "native_log": "native_results/robolab_long/comp_route_10/layout01/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout01/episode_log.yaml",
+          "sha256": "b741c3ca0f8438e49cf2156eca9d0e6134ed13f6a961f242c9f2ec6e38388451",
+          "bytes": 142347
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout01/results.yaml",
+          "sha256": "3dabe7004f9f7878d0353ed7b04398a82789ec916c7c9aaa72446fdc40fe2b8a",
+          "bytes": 318
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout01/episode_meta.yaml",
+          "sha256": "61dd3710ece30bdddba02446e17b0b578d06c78b128154deaecb6f8b838028fc",
+          "bytes": 420
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_route_10",
+        "episode": 2,
+        "success": false,
+        "subgoals_done": 3,
+        "subgoals": 10,
+        "steps": 4950
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_route_10__layout02__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "f34308df53cacdd87462e11c07a4032fcee0eb1141f3538409ba551b315c8aa9",
+      "native_log": "native_results/robolab_long/comp_route_10/layout02/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout02/episode_log.yaml",
+          "sha256": "c929b753ea84020d74711a79e39c63b169cbf6a34c7ef3fd33f2b20bb1892a81",
+          "bytes": 79272
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout02/results.yaml",
+          "sha256": "abf37b96619c602b5603609833a6fb1e5bb7ef15c9701427aa0c58865bb16169",
+          "bytes": 317
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout02/episode_meta.yaml",
+          "sha256": "61dd3710ece30bdddba02446e17b0b578d06c78b128154deaecb6f8b838028fc",
+          "bytes": 420
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_route_10",
+        "episode": 3,
+        "success": false,
+        "subgoals_done": 2,
+        "subgoals": 10,
+        "steps": 4950
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_route_10__layout03__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "0765bed7239a34cb3b4e7f846c466c0eadfc4859208f1d67c8af7e6e28b751e6",
+      "native_log": "native_results/robolab_long/comp_route_10/layout03/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout03/episode_log.yaml",
+          "sha256": "3e451aca6f9959b6647871ab6e2fe19b9042a53d3995809ce9b79996b8772a00",
+          "bytes": 107926
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout03/results.yaml",
+          "sha256": "ea1adc81a8503f90aaa11657ef3e5257e876cf3b87298e14d8240f6f5ed2bf27",
+          "bytes": 318
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout03/episode_meta.yaml",
+          "sha256": "61dd3710ece30bdddba02446e17b0b578d06c78b128154deaecb6f8b838028fc",
+          "bytes": 420
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_route_10",
+        "episode": 4,
+        "success": false,
+        "subgoals_done": 3,
+        "subgoals": 10,
+        "steps": 4950
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_route_10__layout04__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "244ca3885f79e10119766fedf6e85b3e6275dfa267ec25ab56c436fccfe8a550",
+      "native_log": "native_results/robolab_long/comp_route_10/layout04/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout04/episode_log.yaml",
+          "sha256": "ade5c2ad89182ca62b9884a9aae0251561e8ac8e92f61fa5b4691d3dead45a49",
+          "bytes": 187121
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout04/results.yaml",
+          "sha256": "d8ddde413f4063eb8209cd8d3d27474f3a8a6ebd8109f723680ba2bc3bdcf390",
+          "bytes": 342
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout04/episode_meta.yaml",
+          "sha256": "61dd3710ece30bdddba02446e17b0b578d06c78b128154deaecb6f8b838028fc",
+          "bytes": 420
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_route_10",
+        "episode": 5,
+        "success": false,
+        "subgoals_done": 8,
+        "subgoals": 10,
+        "steps": 4950
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_route_10__layout05__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "72d2c4a7a76b5be764bcd099c2d1a4a352e8d096681c28bd51b52740693766ab",
+      "native_log": "native_results/robolab_long/comp_route_10/layout05/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout05/episode_log.yaml",
+          "sha256": "36ed789a293d57977ffee646242d4054a9bca9f9cacbef8158578a7b4c9d7ed9",
+          "bytes": 129529
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout05/results.yaml",
+          "sha256": "843d1a09e1de984be141e69b64aafba67312dd9f6ade4c103ebac5191b4d10ce",
+          "bytes": 318
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout05/episode_meta.yaml",
+          "sha256": "61dd3710ece30bdddba02446e17b0b578d06c78b128154deaecb6f8b838028fc",
+          "bytes": 420
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_route_10",
+        "episode": 6,
+        "success": false,
+        "subgoals_done": 5,
+        "subgoals": 10,
+        "steps": 4950
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_route_10__layout06__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "83558c00e671137993abd66ddde3410cca7ff8b79323299ff7bc89aa066fe453",
+      "native_log": "native_results/robolab_long/comp_route_10/layout06/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout06/episode_log.yaml",
+          "sha256": "ba96b414b589a8ac797a5dae8c10be348abbcab8a4465b4fb33df578a8f056f5",
+          "bytes": 176966
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout06/results.yaml",
+          "sha256": "000259f330902695da9e536546d9c1b02d726fd4dc00f2a1ca28dac05ca00913",
+          "bytes": 342
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout06/episode_meta.yaml",
+          "sha256": "61dd3710ece30bdddba02446e17b0b578d06c78b128154deaecb6f8b838028fc",
+          "bytes": 420
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_route_10",
+        "episode": 7,
+        "success": false,
+        "subgoals_done": 0,
+        "subgoals": 10,
+        "steps": 4950
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_route_10__layout07__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "48e3834845b2942bd55f0aa7e6cd678b5d92a1934f64153a798af80d0bbc0ecc",
+      "native_log": "native_results/robolab_long/comp_route_10/layout07/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout07/episode_log.yaml",
+          "sha256": "f65282c6168db1cd4b063c3172a0f6234f80a3aa33dc31f886787c25f5b66a3e",
+          "bytes": 102036
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout07/results.yaml",
+          "sha256": "d3729b610eebec6362e9693e5f63c3e968c5cc985cca8bc53fbdd014ae793cba",
+          "bytes": 292
+        },
+        {
+          "path": "native_results/robolab_long/comp_route_10/layout07/episode_meta.yaml",
+          "sha256": "61dd3710ece30bdddba02446e17b0b578d06c78b128154deaecb6f8b838028fc",
+          "bytes": 420
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_transfer_2",
+        "episode": 0,
+        "success": false,
+        "subgoals_done": 1,
+        "subgoals": 2,
+        "steps": 1350
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_transfer_2__layout00__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "053c3783a947057a0c04aed146862e4bb2158fc75df7b99f0b840e2fbb567508",
+      "native_log": "native_results/robolab_long/comp_transfer_2/layout00/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout00/episode_log.yaml",
+          "sha256": "6c4cbaff2717ca3c0090774559acff31c5b1191b2bd6092e0df5d131071e6375",
+          "bytes": 26640
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout00/results.yaml",
+          "sha256": "b2307d91a2706c92696103c6facff904ea663220a27ff78d0c1cea7b3a2b4650",
+          "bytes": 314
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout00/episode_meta.yaml",
+          "sha256": "4ff64c558b4f19e0c10abdead11f566e10e70f3752510811107e6693cd301c10",
+          "bytes": 222
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_transfer_2",
+        "episode": 1,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 490
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_transfer_2__layout01__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "b58d41edbdaa19f30e8441488c52de7fa4fa5aa59758924c504960e2743f57e1",
+      "native_log": "native_results/robolab_long/comp_transfer_2/layout01/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout01/episode_log.yaml",
+          "sha256": "5b4707c6cc4421238d0ec78626f2c7aaf3436a2f2051e74c8e7dbd9e33495646",
+          "bytes": 20651
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout01/results.yaml",
+          "sha256": "1646a173a614e83d9a700f4741114deb7f82cc9296beb4fc7915ffe8343033ed",
+          "bytes": 290
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout01/episode_meta.yaml",
+          "sha256": "f2eded035884b3446ae2df1f7dbfa606570727dcff5b2de47139d697e6adf16c",
+          "bytes": 220
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_transfer_2",
+        "episode": 2,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 483
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_transfer_2__layout02__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "65ff64bede721196b6f037687132da537417b783708921889571b66978491735",
+      "native_log": "native_results/robolab_long/comp_transfer_2/layout02/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout02/episode_log.yaml",
+          "sha256": "e29391303b76e9e117dff9ca3629999db5a5d4545a3b5320b1a3a208ceb5c366",
+          "bytes": 20889
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout02/results.yaml",
+          "sha256": "274908d476972729fa87991f1e5c452f712bfccc360ab27ce24620787ec64583",
+          "bytes": 290
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout02/episode_meta.yaml",
+          "sha256": "19d8bfb714f423abae401697b274a493f2a7762e79b8d737312af2c6085ece64",
+          "bytes": 220
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_transfer_2",
+        "episode": 3,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 476
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_transfer_2__layout03__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "01ede557e82d1b260e5ddbf0ac406d4783deb4c51fc85c21f4aea24321154909",
+      "native_log": "native_results/robolab_long/comp_transfer_2/layout03/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout03/episode_log.yaml",
+          "sha256": "1f28c3c828e1f55baba42414ec5a3c4273806490ac03721bafd859b9e66cc13c",
+          "bytes": 20634
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout03/results.yaml",
+          "sha256": "5545fdb628b182b9d66eb0c2dd9f3ce84e7566278871bd933617843dcd086c46",
+          "bytes": 290
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout03/episode_meta.yaml",
+          "sha256": "230e8fe84f7cdc5431c75735e239c58144f06a40a3b7ef66885896d3d4659939",
+          "bytes": 220
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_transfer_2",
+        "episode": 4,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 550
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_transfer_2__layout04__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "d3a0747a9411f24ca6869af8d12c563291d1d7ec439005ef6ea448be3ef2fba5",
+      "native_log": "native_results/robolab_long/comp_transfer_2/layout04/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout04/episode_log.yaml",
+          "sha256": "1a8f7c5120f9f9e075ce49c3638a2e104d6068f7637850096655532c64a2bf70",
+          "bytes": 22195
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout04/results.yaml",
+          "sha256": "ac46db449d4fc8ac0a06baf3eab3e7dc8ea48b2b1cf4a00c411f480425d1ffdf",
+          "bytes": 290
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout04/episode_meta.yaml",
+          "sha256": "742057b0637a438df29f95fefb99c643e77bda880dffb9f93789a488741141e7",
+          "bytes": 220
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_transfer_2",
+        "episode": 5,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 588
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_transfer_2__layout05__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "416f6672e23d6722029e4d79b2f91250e5d9bc787ec5e84cd5ec1dbbd7678be1",
+      "native_log": "native_results/robolab_long/comp_transfer_2/layout05/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout05/episode_log.yaml",
+          "sha256": "7b1dbfac7b09336b2c4e362d4b62036c13a68ffe342ccee3ecbe675010bc06d4",
+          "bytes": 26192
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout05/results.yaml",
+          "sha256": "cd82f0440ad8ca5c558dd110ed90a4aa759c97ee2428dff0553e97d935bb0e24",
+          "bytes": 290
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout05/episode_meta.yaml",
+          "sha256": "081e81548823bf116b3eebf41028c6fe61e5ef45d623de1eb4c6fb9a964269a2",
+          "bytes": 220
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_transfer_2",
+        "episode": 6,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 552
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_transfer_2__layout06__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "0a886345b5c3bd27df6ca8db5e40f05a7afeaf7922a6ca98bd4df039b161c53d",
+      "native_log": "native_results/robolab_long/comp_transfer_2/layout06/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout06/episode_log.yaml",
+          "sha256": "95e0be47fefcc94b019acecd24b3adc66ec61cc9924854acaab86de4951e3a34",
+          "bytes": 22061
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout06/results.yaml",
+          "sha256": "d1ba265a95e78a227f3fc12464eef4640b8c1e97fe9878c57fd27b41230fe564",
+          "bytes": 290
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout06/episode_meta.yaml",
+          "sha256": "28ff0610db95d4216d865f8ba3847c96df49f71a3197b922b685f8ef646e1e56",
+          "bytes": 220
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robolab_long",
+        "task": "comp_transfer_2",
+        "episode": 7,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 471
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robolab_long__comp_transfer_2__layout07__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "7ce9837efffcf5bee8b86a86d62308e282cc516338801021c24fd17217c9499b",
+      "native_log": "native_results/robolab_long/comp_transfer_2/layout07/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout07/episode_log.yaml",
+          "sha256": "e8340247d6d72b8003806d0add91ae712ca8de02410cb20fe79a3829ab8da727",
+          "bytes": 20773
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout07/results.yaml",
+          "sha256": "ec7f71f2d2f2c5e22a8435256556d7ba6d49c69bad4f769dd121e0352571c294",
+          "bytes": 290
+        },
+        {
+          "path": "native_results/robolab_long/comp_transfer_2/layout07/episode_meta.yaml",
+          "sha256": "8230567809c4a12fe31935b6c030f30292c58b6723f2a6ea2342016d2d0fa69a",
+          "bytes": 220
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene36_1goal",
+        "episode": 0,
+        "success": true,
+        "subgoals_done": 1,
+        "subgoals": 1,
+        "steps": 53
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene36_1goal__layout00__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "bd43624f761fb64c2b5fb99e58e2ff9b8932a840c7e402ce08108ae7ba623058",
+      "native_log": "native_results/robotarena_long/scene36_1goal/layout00/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout00/episode_log.yaml",
+          "sha256": "b96e954a636ac2051b3586ca09d03e660dabb9b3d3b768e6c0b7dd4eb83e5201",
+          "bytes": 3028
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout00/results.yaml",
+          "sha256": "d6c64fb2174a59de0a87169752a7087e03889a836f98101799dc05b952fc6fdf",
+          "bytes": 296
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout00/episode_meta.yaml",
+          "sha256": "f034ff06fbd51fa266cd9929f3298bd32a5dea3a43b3a678f172a009ad9e926b",
+          "bytes": 165
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene36_1goal",
+        "episode": 1,
+        "success": true,
+        "subgoals_done": 1,
+        "subgoals": 1,
+        "steps": 53
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene36_1goal__layout01__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "b88963c34b8bc66c5e3ae89de0462ec71feebd13216d2bceb47663354e0e0fc2",
+      "native_log": "native_results/robotarena_long/scene36_1goal/layout01/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout01/episode_log.yaml",
+          "sha256": "ae44189018fd97de4594eb17cfe19458bc8b3da9389aeb4f30b328b9c14892a3",
+          "bytes": 3031
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout01/results.yaml",
+          "sha256": "d6c64fb2174a59de0a87169752a7087e03889a836f98101799dc05b952fc6fdf",
+          "bytes": 296
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout01/episode_meta.yaml",
+          "sha256": "f034ff06fbd51fa266cd9929f3298bd32a5dea3a43b3a678f172a009ad9e926b",
+          "bytes": 165
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene36_1goal",
+        "episode": 2,
+        "success": true,
+        "subgoals_done": 1,
+        "subgoals": 1,
+        "steps": 52
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene36_1goal__layout02__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "c1ffd4606fb17509dfb537251c3e495605a964c1f19dcaadff9c73193719d27c",
+      "native_log": "native_results/robotarena_long/scene36_1goal/layout02/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout02/episode_log.yaml",
+          "sha256": "9ac356cb369202db7511c69b5dba349623c22c47c6678fd90884f577de3fffdb",
+          "bytes": 3025
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout02/results.yaml",
+          "sha256": "ddfe6fd561401d2411aa8906466746e90a4a522f3ec68e31000fab70da406cd7",
+          "bytes": 296
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout02/episode_meta.yaml",
+          "sha256": "a59d949888193ebf8b2c1c47c0fb4f90c1e8eeba5361e334f008e7a12078bbcd",
+          "bytes": 165
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene36_1goal",
+        "episode": 3,
+        "success": true,
+        "subgoals_done": 1,
+        "subgoals": 1,
+        "steps": 52
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene36_1goal__layout03__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "63892602aef8167a7c067e78f13238619ed50a60a4a6b5a462a329f2628e4eb4",
+      "native_log": "native_results/robotarena_long/scene36_1goal/layout03/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout03/episode_log.yaml",
+          "sha256": "97d7b75af774de79929becf5ca3b23accd2469275766726ad59a5188c3150e95",
+          "bytes": 3021
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout03/results.yaml",
+          "sha256": "ddfe6fd561401d2411aa8906466746e90a4a522f3ec68e31000fab70da406cd7",
+          "bytes": 296
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout03/episode_meta.yaml",
+          "sha256": "a59d949888193ebf8b2c1c47c0fb4f90c1e8eeba5361e334f008e7a12078bbcd",
+          "bytes": 165
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene36_1goal",
+        "episode": 4,
+        "success": true,
+        "subgoals_done": 1,
+        "subgoals": 1,
+        "steps": 54
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene36_1goal__layout04__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "a406f707cf5a4ed05304c97a68b55c7b48b0165c6105d389c14e48d81606f8d6",
+      "native_log": "native_results/robotarena_long/scene36_1goal/layout04/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout04/episode_log.yaml",
+          "sha256": "023f1769c53b2bda3cc6797628074db527f93a213e550a04f71e048a8b9ecd47",
+          "bytes": 3181
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout04/results.yaml",
+          "sha256": "7130705bdef9e12212e27450b81051a79e9cefd4af36dcbd5003910499a3aa57",
+          "bytes": 296
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout04/episode_meta.yaml",
+          "sha256": "6b026eaa4f22cf9218d7c18fe73db52e9b9563b02febc15a3face56cea9b7700",
+          "bytes": 165
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene36_1goal",
+        "episode": 5,
+        "success": true,
+        "subgoals_done": 1,
+        "subgoals": 1,
+        "steps": 53
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene36_1goal__layout05__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "0575497ecd0fe2f028e4dc71b0ae8d98b24e4ee6a2ee4a7ff340271e35ae7e04",
+      "native_log": "native_results/robotarena_long/scene36_1goal/layout05/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout05/episode_log.yaml",
+          "sha256": "7763f00bc2c117448a39569e452390220dd881bf6a076412fd33281bb7f6f2af",
+          "bytes": 3029
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout05/results.yaml",
+          "sha256": "d6c64fb2174a59de0a87169752a7087e03889a836f98101799dc05b952fc6fdf",
+          "bytes": 296
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout05/episode_meta.yaml",
+          "sha256": "f034ff06fbd51fa266cd9929f3298bd32a5dea3a43b3a678f172a009ad9e926b",
+          "bytes": 165
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene36_1goal",
+        "episode": 6,
+        "success": true,
+        "subgoals_done": 1,
+        "subgoals": 1,
+        "steps": 52
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene36_1goal__layout06__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "94c54c88a52884a971f123db55deefe493776d6cb990a9d21875717840562120",
+      "native_log": "native_results/robotarena_long/scene36_1goal/layout06/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout06/episode_log.yaml",
+          "sha256": "8e043c9c37ace8eb730154f8597945b214a4b99aa0c99416373df782bf6259a2",
+          "bytes": 3100
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout06/results.yaml",
+          "sha256": "ddfe6fd561401d2411aa8906466746e90a4a522f3ec68e31000fab70da406cd7",
+          "bytes": 296
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout06/episode_meta.yaml",
+          "sha256": "a59d949888193ebf8b2c1c47c0fb4f90c1e8eeba5361e334f008e7a12078bbcd",
+          "bytes": 165
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene36_1goal",
+        "episode": 7,
+        "success": true,
+        "subgoals_done": 1,
+        "subgoals": 1,
+        "steps": 53
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene36_1goal__layout07__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "a1087ef3e6ea5075b3111739b7b7843bb037df1dff290802bf73ef2bdd3119d1",
+      "native_log": "native_results/robotarena_long/scene36_1goal/layout07/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout07/episode_log.yaml",
+          "sha256": "55577bbac13fa3523f2af505dd5d53468cf7221edcdbf55a97031da128787bd7",
+          "bytes": 3108
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout07/results.yaml",
+          "sha256": "d6c64fb2174a59de0a87169752a7087e03889a836f98101799dc05b952fc6fdf",
+          "bytes": 296
+        },
+        {
+          "path": "native_results/robotarena_long/scene36_1goal/layout07/episode_meta.yaml",
+          "sha256": "f034ff06fbd51fa266cd9929f3298bd32a5dea3a43b3a678f172a009ad9e926b",
+          "bytes": 165
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene45_6goal",
+        "episode": 0,
+        "success": false,
+        "subgoals_done": 3,
+        "subgoals": 6,
+        "steps": 600
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene45_6goal__layout00__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "024d95b480c7fc6b1e93905873f36fe0b8802a7ddf203e08c3f8e078c3ac33ff",
+      "native_log": "native_results/robotarena_long/scene45_6goal/layout00/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout00/episode_log.yaml",
+          "sha256": "ee68ba48ec8e7b6f6af27be093b1987113bb03e28101ad2e5b59a90a9a29e535",
+          "bytes": 23905
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout00/results.yaml",
+          "sha256": "ef7ebe77bfe8c235fc7744ac7ce306c92f6a5c12c95c1ce80634b2e2c90b7155",
+          "bytes": 345
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout00/episode_meta.yaml",
+          "sha256": "71b64bf0ad4536eaa4fe96ca53f4ca3277d96e4513046991b04abfcfa9ee7cfe",
+          "bytes": 337
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene45_6goal",
+        "episode": 1,
+        "success": true,
+        "subgoals_done": 6,
+        "subgoals": 6,
+        "steps": 459
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene45_6goal__layout01__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "d65c5bef612c99afb597db78450fc79b9fe66d0b36de4b6fd3d343e4a2a6b485",
+      "native_log": "native_results/robotarena_long/scene45_6goal/layout01/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout01/episode_log.yaml",
+          "sha256": "efa493473439dec1048634857ab0ad0a8cfc865c5078441f581ed37c729e6055",
+          "bytes": 22721
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout01/results.yaml",
+          "sha256": "bb2e254bb0b6351faceb99e7080797095d7e153f353e9e384b50fdb42c8be26f",
+          "bytes": 298
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout01/episode_meta.yaml",
+          "sha256": "351e1a1f377c9a35740a8db7d3aac1954eb14eaeb752df859a6249e5e7c86461",
+          "bytes": 336
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene45_6goal",
+        "episode": 2,
+        "success": false,
+        "subgoals_done": 2,
+        "subgoals": 6,
+        "steps": 600
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene45_6goal__layout02__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "be2866b9b118b705292208b801a0d5a4404b4b22170708a2b0fe4b5e6b60049f",
+      "native_log": "native_results/robotarena_long/scene45_6goal/layout02/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout02/episode_log.yaml",
+          "sha256": "18d22f8425b92922dd926e501135c1767390cbfff5c68de615b5bd863af1eec7",
+          "bytes": 26358
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout02/results.yaml",
+          "sha256": "338d70c2e2827ebdc21a6ce60314e6b5235f8d12a818755238e1f60357981c14",
+          "bytes": 346
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout02/episode_meta.yaml",
+          "sha256": "71b64bf0ad4536eaa4fe96ca53f4ca3277d96e4513046991b04abfcfa9ee7cfe",
+          "bytes": 337
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene45_6goal",
+        "episode": 3,
+        "success": false,
+        "subgoals_done": 2,
+        "subgoals": 6,
+        "steps": 600
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene45_6goal__layout03__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "22eefd724801b37b19ceadf9eeada2cf02f687a7a6d988882b88394000fb84c8",
+      "native_log": "native_results/robotarena_long/scene45_6goal/layout03/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout03/episode_log.yaml",
+          "sha256": "792817435478b81d6eb491c7760b471c1c788f4862efffa94d2c833c0b8fc177",
+          "bytes": 29315
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout03/results.yaml",
+          "sha256": "7ec0824f82fbc0fb4a44eb623b77fae330c999985e7955fd4db1ef2deb04d593",
+          "bytes": 346
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout03/episode_meta.yaml",
+          "sha256": "71b64bf0ad4536eaa4fe96ca53f4ca3277d96e4513046991b04abfcfa9ee7cfe",
+          "bytes": 337
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene45_6goal",
+        "episode": 4,
+        "success": false,
+        "subgoals_done": 4,
+        "subgoals": 6,
+        "steps": 600
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene45_6goal__layout04__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "1bce440f8ec91087624556740501ee61be3d92c36a207583edb81305164684f2",
+      "native_log": "native_results/robotarena_long/scene45_6goal/layout04/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout04/episode_log.yaml",
+          "sha256": "2d86fc3c16523bc48ae94012409383559549606cd9598d621ca32b1320dab46b",
+          "bytes": 29970
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout04/results.yaml",
+          "sha256": "91985848991473c431132793e8b5360d787a41df5ea95c1fab3628074652d568",
+          "bytes": 345
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout04/episode_meta.yaml",
+          "sha256": "71b64bf0ad4536eaa4fe96ca53f4ca3277d96e4513046991b04abfcfa9ee7cfe",
+          "bytes": 337
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene45_6goal",
+        "episode": 5,
+        "success": false,
+        "subgoals_done": 4,
+        "subgoals": 6,
+        "steps": 600
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene45_6goal__layout05__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "2f52caf1ab72a1cacca2a651091591013f7fcc4df09f8057628c13d96bf836d8",
+      "native_log": "native_results/robotarena_long/scene45_6goal/layout05/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout05/episode_log.yaml",
+          "sha256": "e33c116006534666175d2a8f16c0454418c8c92ab4df74a0ee29ae3889798c93",
+          "bytes": 27909
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout05/results.yaml",
+          "sha256": "0f68630d6b59b27ae6eefac15f45563749653a06f3c648c8cf1131781285a967",
+          "bytes": 346
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout05/episode_meta.yaml",
+          "sha256": "71b64bf0ad4536eaa4fe96ca53f4ca3277d96e4513046991b04abfcfa9ee7cfe",
+          "bytes": 337
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene45_6goal",
+        "episode": 6,
+        "success": false,
+        "subgoals_done": 3,
+        "subgoals": 6,
+        "steps": 600
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene45_6goal__layout06__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "057dbd2e0f809b7d000f614bccbc7de815e3eaf97292148b0c121985a1e21ffa",
+      "native_log": "native_results/robotarena_long/scene45_6goal/layout06/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout06/episode_log.yaml",
+          "sha256": "6a37dbe64a9a8db1192951fce1bcde1c3502db451146a2d31d71dee3b8b59bb3",
+          "bytes": 29768
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout06/results.yaml",
+          "sha256": "28154344b7d20548bb0a4414f2916fe9bf4b992b2566d9eeb0d851aa05a099b4",
+          "bytes": 346
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout06/episode_meta.yaml",
+          "sha256": "71b64bf0ad4536eaa4fe96ca53f4ca3277d96e4513046991b04abfcfa9ee7cfe",
+          "bytes": 337
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene45_6goal",
+        "episode": 7,
+        "success": true,
+        "subgoals_done": 6,
+        "subgoals": 6,
+        "steps": 539
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene45_6goal__layout07__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "eb96b6fc8c4859c61e93e897894696b3a8eacb689be0bdff0b15a7ee1c84dde9",
+      "native_log": "native_results/robotarena_long/scene45_6goal/layout07/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout07/episode_log.yaml",
+          "sha256": "8bee0e16c261af7bbab3accae102900b4b3e72ef8ad0535514ab34b4cff77dce",
+          "bytes": 27100
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout07/results.yaml",
+          "sha256": "4700756444357f52051dd8cf961b810a7c0071512225f0f56cbf3e1e8b130693",
+          "bytes": 321
+        },
+        {
+          "path": "native_results/robotarena_long/scene45_6goal/layout07/episode_meta.yaml",
+          "sha256": "e2b48a7d086eb7e1a98bcfe1395f819a67e057449ef913414653bbcd710c8bc8",
+          "bytes": 336
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene54_split_3",
+        "episode": 0,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 183
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene54_split_3__layout00__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "e8391d9836deb22f233314c459899cb877364236998edcbaa5961392046cc754",
+      "native_log": "native_results/robotarena_long/scene54_split_3/layout00/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout00/episode_log.yaml",
+          "sha256": "2d82ee0a866583746f350c3a6705a938753e20e6636fbcd27a35e56edb91b2bc",
+          "bytes": 9886
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout00/results.yaml",
+          "sha256": "38d55ae6fe12a877fcf8fa274018e1d4e1904a7dc51ae8776701a285d423c28e",
+          "bytes": 300
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout00/episode_meta.yaml",
+          "sha256": "7f6a1455fc4e47acf7b2f36af2a0573eed521a91bb97666a78d2aa33d7a0f808",
+          "bytes": 292
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene54_split_3",
+        "episode": 1,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 250
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene54_split_3__layout01__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "fa9988edbc6d10b51551dfd7be332a69299940d9bd0ec9a565a06ca6c6e61fdb",
+      "native_log": "native_results/robotarena_long/scene54_split_3/layout01/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout01/episode_log.yaml",
+          "sha256": "73f20aefb8d20ddee9e67589003bfa9d7edaa31c2318ae09c8bf147920ff5c4e",
+          "bytes": 11827
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout01/results.yaml",
+          "sha256": "1e3a469c92e26e8511b093cd31db1af1cd3fa539a6785aad38937340909045d8",
+          "bytes": 300
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout01/episode_meta.yaml",
+          "sha256": "a68fb0fc8eb4ccd6107851007f059b237da59f7f3d3f53933c9aaddf40aa9b88",
+          "bytes": 292
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene54_split_3",
+        "episode": 2,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 196
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene54_split_3__layout02__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "fef2910db614519cd4c78c5db696cd4bcbefb5e9fbdd5fa367217ac6f5555a92",
+      "native_log": "native_results/robotarena_long/scene54_split_3/layout02/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout02/episode_log.yaml",
+          "sha256": "54495a34060ad0733911376f5d37a4b16cab78de2b7fea037c31c5a1c420beb5",
+          "bytes": 10047
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout02/results.yaml",
+          "sha256": "3378607a98fcaa0210894ac3ecd5bc86caa0679db3c5f659b7dc5df393fefbe5",
+          "bytes": 300
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout02/episode_meta.yaml",
+          "sha256": "bc9a9c47745dd76fbd6a02a3d4a6bc7e1e2b34e898d7949bdfd4cbfa97860a7c",
+          "bytes": 292
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene54_split_3",
+        "episode": 3,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 196
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene54_split_3__layout03__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "925ba5b1a17153d449ca65570761bdf6db243658cf0dc71204631036d4fc41ac",
+      "native_log": "native_results/robotarena_long/scene54_split_3/layout03/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout03/episode_log.yaml",
+          "sha256": "ae6cbe5fee577e714ce24483cc7300b55b16f68760a6d084ae25f6f60b487195",
+          "bytes": 10199
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout03/results.yaml",
+          "sha256": "3378607a98fcaa0210894ac3ecd5bc86caa0679db3c5f659b7dc5df393fefbe5",
+          "bytes": 300
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout03/episode_meta.yaml",
+          "sha256": "bc9a9c47745dd76fbd6a02a3d4a6bc7e1e2b34e898d7949bdfd4cbfa97860a7c",
+          "bytes": 292
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene54_split_3",
+        "episode": 4,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 183
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene54_split_3__layout04__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "e20e51afff008239a7c16726e2e46a85e88934f18fd5e4ed829969b77654b9be",
+      "native_log": "native_results/robotarena_long/scene54_split_3/layout04/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout04/episode_log.yaml",
+          "sha256": "9575dfe3cd8e6de26bed0aafff4d090c8a4ef3dec827b597eff90716665ef0f8",
+          "bytes": 9876
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout04/results.yaml",
+          "sha256": "38d55ae6fe12a877fcf8fa274018e1d4e1904a7dc51ae8776701a285d423c28e",
+          "bytes": 300
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout04/episode_meta.yaml",
+          "sha256": "7f6a1455fc4e47acf7b2f36af2a0573eed521a91bb97666a78d2aa33d7a0f808",
+          "bytes": 292
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene54_split_3",
+        "episode": 5,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 209
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene54_split_3__layout05__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "12a0fdc728e410272b95a09c3d985cb957d0d5745703295a806ef836b92415f5",
+      "native_log": "native_results/robotarena_long/scene54_split_3/layout05/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout05/episode_log.yaml",
+          "sha256": "f2b78b5a5215b1dcf3f697a79efb787f248f8f165e9169caf6c21c58f745716b",
+          "bytes": 10193
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout05/results.yaml",
+          "sha256": "c7a4f824744a91f3d62389d8297e97f4bf25d2dc06a1848a31ace0a38b69483c",
+          "bytes": 300
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout05/episode_meta.yaml",
+          "sha256": "9fe9cbe8673d8412a46cb89fd4cc5b2b58c1a6c69e281ea17c1ae42dfe41af35",
+          "bytes": 292
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene54_split_3",
+        "episode": 6,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 183
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene54_split_3__layout06__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "254f6c3c3b3bcc143f5e3f0e2b749c990fd27cf6bb8b1dd5a2563173c86956e3",
+      "native_log": "native_results/robotarena_long/scene54_split_3/layout06/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout06/episode_log.yaml",
+          "sha256": "fb0858ba71c430e34ac8f89a1d7a8bf5c346c310a8f6e42df902e5bfac4519da",
+          "bytes": 10054
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout06/results.yaml",
+          "sha256": "38d55ae6fe12a877fcf8fa274018e1d4e1904a7dc51ae8776701a285d423c28e",
+          "bytes": 300
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout06/episode_meta.yaml",
+          "sha256": "7f6a1455fc4e47acf7b2f36af2a0573eed521a91bb97666a78d2aa33d7a0f808",
+          "bytes": 292
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene54_split_3",
+        "episode": 7,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 196
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene54_split_3__layout07__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "6e75735ea83d7d8db9afe1acdc6983d9a0c72a7e16733e59f9a198af2005d5f2",
+      "native_log": "native_results/robotarena_long/scene54_split_3/layout07/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout07/episode_log.yaml",
+          "sha256": "451ffb6d33c33612a913a3d8f200d04795007d97ec6b1efcd96cbe2ec30d4546",
+          "bytes": 10116
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout07/results.yaml",
+          "sha256": "3378607a98fcaa0210894ac3ecd5bc86caa0679db3c5f659b7dc5df393fefbe5",
+          "bytes": 300
+        },
+        {
+          "path": "native_results/robotarena_long/scene54_split_3/layout07/episode_meta.yaml",
+          "sha256": "bc9a9c47745dd76fbd6a02a3d4a6bc7e1e2b34e898d7949bdfd4cbfa97860a7c",
+          "bytes": 292
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene76_2goal",
+        "episode": 0,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 134
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene76_2goal__layout00__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "1233a201ede2aefdcfb37437e0321fa19c65e12fdf8985cfb1f3b8128ff68350",
+      "native_log": "native_results/robotarena_long/scene76_2goal/layout00/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout00/episode_log.yaml",
+          "sha256": "42ccc3c8c56f4d36990abc783bb3ad6337493aa8c729c1acd16d670a625495bc",
+          "bytes": 6413
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout00/results.yaml",
+          "sha256": "6d4c323f6f154f117320d90acdba817fb82a44f2783b58dab5f109e7fdd9ef6d",
+          "bytes": 298
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout00/episode_meta.yaml",
+          "sha256": "5d8c020e96460d445694f3b6818f898f69edcea6418151b25a1b2e6a1431de84",
+          "bytes": 234
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene76_2goal",
+        "episode": 1,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 134
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene76_2goal__layout01__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "0d4d754084cbe775dae5012742d29e95cafd23b55fb06e1bdc3a5f8423ea2e52",
+      "native_log": "native_results/robotarena_long/scene76_2goal/layout01/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout01/episode_log.yaml",
+          "sha256": "56dc241c3cffbb052da103ff1b7adf4fbad949f8a03018ce7cdf1a95f4011d53",
+          "bytes": 6569
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout01/results.yaml",
+          "sha256": "6d4c323f6f154f117320d90acdba817fb82a44f2783b58dab5f109e7fdd9ef6d",
+          "bytes": 298
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout01/episode_meta.yaml",
+          "sha256": "5d8c020e96460d445694f3b6818f898f69edcea6418151b25a1b2e6a1431de84",
+          "bytes": 234
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene76_2goal",
+        "episode": 2,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 138
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene76_2goal__layout02__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "f71b9922cbe2257fd62c648703c524a54e85e07a4b7b6cfa5f4d9bce6eab47d3",
+      "native_log": "native_results/robotarena_long/scene76_2goal/layout02/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout02/episode_log.yaml",
+          "sha256": "f3c5a3d0ee636a0d69f2d0e2a7fa4e64b8c4687c9b66dff61cf75b1b8ee5e426",
+          "bytes": 6594
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout02/results.yaml",
+          "sha256": "92200fcba361699ee609cfe38f7ded9935f12c0aa4710d2454d1cb7114afa31d",
+          "bytes": 298
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout02/episode_meta.yaml",
+          "sha256": "ff78aa9046accf9d7938ca1a244361766c590f9570d8770c1ced549bf7624375",
+          "bytes": 234
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene76_2goal",
+        "episode": 3,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 163
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene76_2goal__layout03__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "3bf3e4309dabf3ae1196634dde421393d0a739be4c5807c009941ffe79ade56a",
+      "native_log": "native_results/robotarena_long/scene76_2goal/layout03/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout03/episode_log.yaml",
+          "sha256": "294202be5b862ad701ce152ead45c9526043557bb822b21e8f61817dd753a20a",
+          "bytes": 7811
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout03/results.yaml",
+          "sha256": "82528b3606300207ccf094ca029f682d47df7a6d70cac3ec2b496715351fa512",
+          "bytes": 298
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout03/episode_meta.yaml",
+          "sha256": "6f202b046f7276c0cfa05723c6dd5265744f39fde3929802dbdc8b825e28c7da",
+          "bytes": 234
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene76_2goal",
+        "episode": 4,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 125
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene76_2goal__layout04__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "359bfbd73699010e9636e79a678cedae5bf9fced686c35af147fb38d02287e11",
+      "native_log": "native_results/robotarena_long/scene76_2goal/layout04/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout04/episode_log.yaml",
+          "sha256": "9990c2f870b757afc84c2865a290102cbe8ebc1fba6c676182b5ec934690bce0",
+          "bytes": 6450
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout04/results.yaml",
+          "sha256": "d79f2c4fbbb12c8c4d9a4fae545c02aa34f48bac781f38e0dfc22ebb7f0a5b1d",
+          "bytes": 298
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout04/episode_meta.yaml",
+          "sha256": "5de91c00b1c7b2160da7e73aab61dcade1bb64a3a5913fcfbcfba2b08676bc50",
+          "bytes": 234
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene76_2goal",
+        "episode": 5,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 166
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene76_2goal__layout05__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "451555a61bb3766b850ed92ab7c1962f658805e11addd88ed9a111ba70c75eee",
+      "native_log": "native_results/robotarena_long/scene76_2goal/layout05/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout05/episode_log.yaml",
+          "sha256": "50699c07ba99744864833fcbc60b27e957e0113e76c6f676082cbb1b22ac5db0",
+          "bytes": 8075
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout05/results.yaml",
+          "sha256": "4cddc27fa7dd271671c7893d0d8067ba2905ff5e84de62efe49233bf891082cd",
+          "bytes": 298
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout05/episode_meta.yaml",
+          "sha256": "b5ac2df6e24afe30abaf86269183a1806366e9e6dde55af6f0960c720499e93b",
+          "bytes": 234
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene76_2goal",
+        "episode": 6,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 185
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene76_2goal__layout06__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "5d1adfa66998f0e013cdb6270725a417eb01c6790e9227e89be618e262f9d96f",
+      "native_log": "native_results/robotarena_long/scene76_2goal/layout06/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout06/episode_log.yaml",
+          "sha256": "16072ea408e11303d001274164f1a128c15de77f3db4a623b8092f118cb6da0d",
+          "bytes": 8206
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout06/results.yaml",
+          "sha256": "f9c87831b72afe41de7995a8fd27068ea8bd8f4b651ba636e37600a970015064",
+          "bytes": 298
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout06/episode_meta.yaml",
+          "sha256": "0ed9ea656ddbbbacb43d8f394c8274bbccc0aedb11146a7e8494816bf8a19287",
+          "bytes": 234
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "robotarena_long",
+        "task": "scene76_2goal",
+        "episode": 7,
+        "success": true,
+        "subgoals_done": 2,
+        "subgoals": 2,
+        "steps": 125
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/robotarena_long__scene76_2goal__layout07__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "8ab179de404e1f778579bf7473bfa4ac15806311838d2907d3535d00dffa35e6",
+      "native_log": "native_results/robotarena_long/scene76_2goal/layout07/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout07/episode_log.yaml",
+          "sha256": "61d91623ef02f4e651ce06f3cdaf94a17adebdcf2679b3a4c4d7fe746edbf5f8",
+          "bytes": 6208
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout07/results.yaml",
+          "sha256": "d79f2c4fbbb12c8c4d9a4fae545c02aa34f48bac781f38e0dfc22ebb7f0a5b1d",
+          "bytes": 298
+        },
+        {
+          "path": "native_results/robotarena_long/scene76_2goal/layout07/episode_meta.yaml",
+          "sha256": "5de91c00b1c7b2160da7e73aab61dcade1bb64a3a5913fcfbcfba2b08676bc50",
+          "bytes": 234
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 0,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 457
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout00__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "230e4e904c5d489f74c60d81d423e6ac436afc651ee9d81975d1ad84071db2aa",
+      "native_log": "native_results/simplerenv_long/relay7e/layout00/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout00/episode_log.yaml",
+          "sha256": "303ddedc23de3e7dd7e6b7d76e639eba6e601cc72d1861d0402b30ff889c6693",
+          "bytes": 24786
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout00/results.yaml",
+          "sha256": "4d8854d439a68483b1309c4175ffc7e9ac04702e59fa43f7f96750f637c02e32",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout00/episode_meta.yaml",
+          "sha256": "4588dfe68e042f8356934bb00e8a12f4a0f2e962048d2bf26262f674cf4e2b6c",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 1,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 413
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout01__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "f68d00a8c4281edb3b6815323786be0b1a5ec8bae83e8080add4132580f1a77e",
+      "native_log": "native_results/simplerenv_long/relay7e/layout01/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout01/episode_log.yaml",
+          "sha256": "784586f3eaaf563221ac1b5c50d6b3d4235b70de51281e5ee74d356c5860b5d1",
+          "bytes": 23241
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout01/results.yaml",
+          "sha256": "6d1e0364503fef82df62d37bc97d4922414b41d91dbf4e9158f790e8185f01b6",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout01/episode_meta.yaml",
+          "sha256": "40f334e41b8788d8fb81bd57e9beb7095e7cab01308f5eb104c0d35e78fc5528",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 2,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 413
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout02__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "3da456b3922482280baeb8177bf25ebbdb2ccb2cadfe2c40466f533834ed9256",
+      "native_log": "native_results/simplerenv_long/relay7e/layout02/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout02/episode_log.yaml",
+          "sha256": "e669954e8409151df9a2dd2457063b62a4a1027b7522bd0685c7e98e6ed3efa3",
+          "bytes": 23696
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout02/results.yaml",
+          "sha256": "80148427b7242878a4dc8b33705c768ad83934c1da9419ff50c59fcb1db4ef9a",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout02/episode_meta.yaml",
+          "sha256": "40f334e41b8788d8fb81bd57e9beb7095e7cab01308f5eb104c0d35e78fc5528",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 3,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 401
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout03__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "348549aa2e89bf1abd9f24013478250cb604a77ba50ba871592397db052f5a83",
+      "native_log": "native_results/simplerenv_long/relay7e/layout03/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout03/episode_log.yaml",
+          "sha256": "38d14945cda4cc62f2fc7879613e3455dc7b14a2823aadc1d8a93ae6fc71846c",
+          "bytes": 22869
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout03/results.yaml",
+          "sha256": "e9cdeaa7c87eb2869273191dbdc15c19e22320653a537ed869a8ba9ffb805b4c",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout03/episode_meta.yaml",
+          "sha256": "6f9e911f10471f43066decdf4c8278e94e9d68dc6db626ba70d7640eefbbaa61",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 4,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 413
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout04__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "66dff5b50fa9412ff3b09b527c53b04780577f2f8bcc33f0624c530c9d66e7ed",
+      "native_log": "native_results/simplerenv_long/relay7e/layout04/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout04/episode_log.yaml",
+          "sha256": "d2f424d1b049110f964aed10fd66bd95505614aec38ce9e355819384403fa251",
+          "bytes": 23550
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout04/results.yaml",
+          "sha256": "6d1e0364503fef82df62d37bc97d4922414b41d91dbf4e9158f790e8185f01b6",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout04/episode_meta.yaml",
+          "sha256": "40f334e41b8788d8fb81bd57e9beb7095e7cab01308f5eb104c0d35e78fc5528",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 5,
+        "success": false,
+        "subgoals_done": 4,
+        "subgoals": 7,
+        "steps": 700
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout05__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "7467eddbe31e64705d23574c883651b491991a5c666d65f3bf6e50ec924165c7",
+      "native_log": "native_results/simplerenv_long/relay7e/layout05/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout05/episode_log.yaml",
+          "sha256": "7d95c82fb5c369b59436ceefbe262aa60a9eb10610d1dc461da4bea26ec83805",
+          "bytes": 22840
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout05/results.yaml",
+          "sha256": "0aa43afac9643531433e1276f2403ce5ded93bf67f9b0834569e209042dcc7a8",
+          "bytes": 307
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout05/episode_meta.yaml",
+          "sha256": "b9aa93af2db3f9f5f118c70ead9472b0254436058392b5b3e33d260a61fadb35",
+          "bytes": 624
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 6,
+        "success": false,
+        "subgoals_done": 2,
+        "subgoals": 7,
+        "steps": 700
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout06__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "6d8486cf34cb9c035d027071e743f01862ce85bfd121e9fddcf10c19b8c8b109",
+      "native_log": "native_results/simplerenv_long/relay7e/layout06/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout06/episode_log.yaml",
+          "sha256": "d8c43d4d31abf5834fb5f5fd9e335ed82a02298ce9ff82103b533090c8dcacdd",
+          "bytes": 13766
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout06/results.yaml",
+          "sha256": "600a85f6bb4043f8cdac0a248bec40a4041b605ee0075b860769e0ae1d531979",
+          "bytes": 307
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout06/episode_meta.yaml",
+          "sha256": "b9aa93af2db3f9f5f118c70ead9472b0254436058392b5b3e33d260a61fadb35",
+          "bytes": 624
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 7,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 413
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout07__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "4bd23643e20dff77e550689789cf7a4ff922d2466bdbccc2eccca5aa5c4a2dca",
+      "native_log": "native_results/simplerenv_long/relay7e/layout07/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout07/episode_log.yaml",
+          "sha256": "087a1d4229760aa41c0f9ab50193dd6b98a3cabc523e127222c17dce2fc12bc7",
+          "bytes": 23195
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout07/results.yaml",
+          "sha256": "6d1e0364503fef82df62d37bc97d4922414b41d91dbf4e9158f790e8185f01b6",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout07/episode_meta.yaml",
+          "sha256": "40f334e41b8788d8fb81bd57e9beb7095e7cab01308f5eb104c0d35e78fc5528",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 8,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 473
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout08__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "5b2ad8e74e8a37e87566381dfa32e14e31e7cefaf5807f460eb82970b45984ad",
+      "native_log": "native_results/simplerenv_long/relay7e/layout08/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout08/episode_log.yaml",
+          "sha256": "61c7a34f5b7c35510438b437866d11bd8648d3f43b763d3250fa23b45100e7e2",
+          "bytes": 26456
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout08/results.yaml",
+          "sha256": "abff73718e13f937a1b22ab2c71dc6f0503e365db692afff752519e92a9033fc",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout08/episode_meta.yaml",
+          "sha256": "dc60f1c984714930629f50f411236d45e528da896c608566b899e23137fb5c4d",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 9,
+        "success": false,
+        "subgoals_done": 2,
+        "subgoals": 7,
+        "steps": 700
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout09__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "0c16841c5a8ad23fa2e1365bfdb3ef66e9608ab8cc7b81d4610a28f9a8bd75e2",
+      "native_log": "native_results/simplerenv_long/relay7e/layout09/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout09/episode_log.yaml",
+          "sha256": "2dc3e95dd9e32f29ce1421ac03ac56f361e54587c13714bcc3803c97f2563bd2",
+          "bytes": 13638
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout09/results.yaml",
+          "sha256": "600a85f6bb4043f8cdac0a248bec40a4041b605ee0075b860769e0ae1d531979",
+          "bytes": 307
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout09/episode_meta.yaml",
+          "sha256": "b9aa93af2db3f9f5f118c70ead9472b0254436058392b5b3e33d260a61fadb35",
+          "bytes": 624
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 10,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 439
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout10__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "969cf551856f8f8baf60013275a39a432e6e7f614db332fc86951e578b4bad76",
+      "native_log": "native_results/simplerenv_long/relay7e/layout10/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout10/episode_log.yaml",
+          "sha256": "c305debfd5e7142fde41639e1afc776d05c371508494cf8791d68122a097d7a4",
+          "bytes": 24938
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout10/results.yaml",
+          "sha256": "4e0edd13d6fd00a2e9ad24b0253fa5a38bbcaa306f0d50a53688a939eaa687a9",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout10/episode_meta.yaml",
+          "sha256": "1afaafda8e1fb6d1dd5293c1059d001b113a9f5d9ee342cafeb670e192a8423b",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 11,
+        "success": false,
+        "subgoals_done": 2,
+        "subgoals": 7,
+        "steps": 700
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout11__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "764e82cd319b5fc2075ebb06038559c06196e4b5d58c6fb74a707112b7cab36c",
+      "native_log": "native_results/simplerenv_long/relay7e/layout11/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout11/episode_log.yaml",
+          "sha256": "74eb1e5dbc76b7f21b5419afead041c054a332729f6ea9751226c6cb0b696335",
+          "bytes": 22294
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout11/results.yaml",
+          "sha256": "55efd6ffc2909325607feb8f0a01f16c52f6b3675eacd4f566f643204a711cfd",
+          "bytes": 307
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout11/episode_meta.yaml",
+          "sha256": "b9aa93af2db3f9f5f118c70ead9472b0254436058392b5b3e33d260a61fadb35",
+          "bytes": 624
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 12,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 472
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout12__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "e3ca6d4799bf8b64f3b4ab3a2436dbc8324a99938085d19e0e68329046745dcd",
+      "native_log": "native_results/simplerenv_long/relay7e/layout12/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout12/episode_log.yaml",
+          "sha256": "c46fbc3b5851dc3b7a7400911da6a698c5f34924b88e80db5bee83d6a9435309",
+          "bytes": 26954
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout12/results.yaml",
+          "sha256": "fb397767d49bfea141f3d7dcf8d0bafa769234c35a9970a42fb3a4407416ee5b",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout12/episode_meta.yaml",
+          "sha256": "38de5ecadaf82cd7b4ed1a9783225c8219af8507ac2cb32d6fd1e9eec3ece678",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 13,
+        "success": false,
+        "subgoals_done": 3,
+        "subgoals": 7,
+        "steps": 700
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout13__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "5dd8d6e22265b29fea3e98223e804f0ff0ad1cd11d99737180a3b17416433137",
+      "native_log": "native_results/simplerenv_long/relay7e/layout13/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout13/episode_log.yaml",
+          "sha256": "61fe521223d7f2d574077a6e1defaa5ef19a51868ae6d6994b85cb6a5d19e2f6",
+          "bytes": 16149
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout13/results.yaml",
+          "sha256": "a6aa42649d76765e14a7377e325aed14f2cd11859f8641765c36f809fc14d554",
+          "bytes": 307
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout13/episode_meta.yaml",
+          "sha256": "b9aa93af2db3f9f5f118c70ead9472b0254436058392b5b3e33d260a61fadb35",
+          "bytes": 624
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 14,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 413
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout14__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "474d4c0a7342b8b268b39f6e835a9b5838c7119ece4e359379cbc0a15c2ee153",
+      "native_log": "native_results/simplerenv_long/relay7e/layout14/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout14/episode_log.yaml",
+          "sha256": "816bb8661af2b60a40d86d5b8f9f815233bfbac7d51c268997cbb9b946616526",
+          "bytes": 23203
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout14/results.yaml",
+          "sha256": "6d1e0364503fef82df62d37bc97d4922414b41d91dbf4e9158f790e8185f01b6",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout14/episode_meta.yaml",
+          "sha256": "40f334e41b8788d8fb81bd57e9beb7095e7cab01308f5eb104c0d35e78fc5528",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 15,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 439
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout15__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "c11426ef4a3ec13cd879f0d0949059ff68dec8599971fa891f07fb9df32ac4e9",
+      "native_log": "native_results/simplerenv_long/relay7e/layout15/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout15/episode_log.yaml",
+          "sha256": "473486675e0436de610bd1042a7fb36513f45e191892151df7261a2e96f37cb4",
+          "bytes": 24485
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout15/results.yaml",
+          "sha256": "4e0edd13d6fd00a2e9ad24b0253fa5a38bbcaa306f0d50a53688a939eaa687a9",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout15/episode_meta.yaml",
+          "sha256": "1afaafda8e1fb6d1dd5293c1059d001b113a9f5d9ee342cafeb670e192a8423b",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 16,
+        "success": false,
+        "subgoals_done": 4,
+        "subgoals": 7,
+        "steps": 700
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout16__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "715b2180ddb56e4f6e6775cb7412ce9064b905c32e8fcbe639be3f12b5f48399",
+      "native_log": "native_results/simplerenv_long/relay7e/layout16/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout16/episode_log.yaml",
+          "sha256": "bb6c527a0dead97eb0215b3191146b909aebfe2688986f34e5d72ce16576820b",
+          "bytes": 18453
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout16/results.yaml",
+          "sha256": "182587e86a00b1af5285b02aff0609b43626b1eb414c6d370d6a733f65147e1d",
+          "bytes": 307
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout16/episode_meta.yaml",
+          "sha256": "b9aa93af2db3f9f5f118c70ead9472b0254436058392b5b3e33d260a61fadb35",
+          "bytes": 624
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 17,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 472
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout17__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "0b210cca8bbd481a4dfefbe8940a38da3c8f551dc6a4ec4b3d1ebba91a61b78c",
+      "native_log": "native_results/simplerenv_long/relay7e/layout17/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout17/episode_log.yaml",
+          "sha256": "9eb8d63e2fc743667f4999addd42d188e61944022ceca33a5ec3ff7b80fd655a",
+          "bytes": 26787
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout17/results.yaml",
+          "sha256": "fb397767d49bfea141f3d7dcf8d0bafa769234c35a9970a42fb3a4407416ee5b",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout17/episode_meta.yaml",
+          "sha256": "38de5ecadaf82cd7b4ed1a9783225c8219af8507ac2cb32d6fd1e9eec3ece678",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 18,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 426
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout18__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "edd46075f3d5a4c6859f83d4ec7f30779c3ff3e93c615bf59b1869b409756e27",
+      "native_log": "native_results/simplerenv_long/relay7e/layout18/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout18/episode_log.yaml",
+          "sha256": "8f24ce09ece80ea499e565ba1021aeeac3011201b16fe659440aac91bcdbc5f1",
+          "bytes": 23625
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout18/results.yaml",
+          "sha256": "babaf2af052471b6051304bd9751f2252a7819f6f6a982278ef2f558189e3702",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout18/episode_meta.yaml",
+          "sha256": "116abc0cd6ef3af260d16087c472c062b9ac3bc1a799fd59235cb5f0328548f7",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 19,
+        "success": false,
+        "subgoals_done": 3,
+        "subgoals": 7,
+        "steps": 700
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout19__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "bebdee71cb6d081a92a8ca131dece706abc716fe765d306ed57febd1f5266178",
+      "native_log": "native_results/simplerenv_long/relay7e/layout19/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout19/episode_log.yaml",
+          "sha256": "5b31725c4f534f8940bd283c4b814a16f3dbe62fc6a8f8b1ea16ad1b2404611f",
+          "bytes": 16194
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout19/results.yaml",
+          "sha256": "a6aa42649d76765e14a7377e325aed14f2cd11859f8641765c36f809fc14d554",
+          "bytes": 307
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout19/episode_meta.yaml",
+          "sha256": "b9aa93af2db3f9f5f118c70ead9472b0254436058392b5b3e33d260a61fadb35",
+          "bytes": 624
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 20,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 401
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout20__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "3872dd998d26b3c0a3fe836aeb5de76f2373b7207817e6aa5b7432ab5fe80f4d",
+      "native_log": "native_results/simplerenv_long/relay7e/layout20/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout20/episode_log.yaml",
+          "sha256": "c18884814c9543ad9e06b4a1a412cb42294a308b65654d38e03cc5bcaf6bbe44",
+          "bytes": 22224
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout20/results.yaml",
+          "sha256": "e9cdeaa7c87eb2869273191dbdc15c19e22320653a537ed869a8ba9ffb805b4c",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout20/episode_meta.yaml",
+          "sha256": "6f9e911f10471f43066decdf4c8278e94e9d68dc6db626ba70d7640eefbbaa61",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 21,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 489
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout21__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "d447a4c17354d8cac95b6bfd570ca93e68d2835f7ea2809ffd98c63a71709d4b",
+      "native_log": "native_results/simplerenv_long/relay7e/layout21/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout21/episode_log.yaml",
+          "sha256": "232b8d8c7917efc6a30a50540d9c3d304c78c16884be15b95ae7fe573d43b2ba",
+          "bytes": 27432
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout21/results.yaml",
+          "sha256": "df141ffc3176314d8366162c25a5aed806cf1d42478b3fa588ce54b5126d0254",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout21/episode_meta.yaml",
+          "sha256": "b6520301a0b08d875bc331fb0b6479d26b7bd679457b60c15fe38ae6bc22dd16",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 22,
+        "success": true,
+        "subgoals_done": 7,
+        "subgoals": 7,
+        "steps": 456
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout22__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "587eec3c9c12bb825e230f2754fdacd3fd7fbc857a2bfc4fb8dd5681ce81d58f",
+      "native_log": "native_results/simplerenv_long/relay7e/layout22/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout22/episode_log.yaml",
+          "sha256": "ef0930b4979aef50a67404899bd24d38284395741f2dee713532251a05bce5cf",
+          "bytes": 25617
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout22/results.yaml",
+          "sha256": "6d61f2ee17ff8ea53d743b7a3388b258d2668338d2eee357a4acc0cb8151007a",
+          "bytes": 283
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout22/episode_meta.yaml",
+          "sha256": "eba4d08a3a81a0af72d037ba4da3ec218ffcfeae1abe5af1bd65701e47f55c69",
+          "bytes": 623
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "relay7e",
+        "episode": 23,
+        "success": false,
+        "subgoals_done": 2,
+        "subgoals": 7,
+        "steps": 700
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__relay7e__layout23__Qwen3.8-Max__FAILURE.mp4",
+      "video_sha256": "1acde0200c1d2a02e3514f2276d7cdb61ee56b6d54855aaac1202172ccc82773",
+      "native_log": "native_results/simplerenv_long/relay7e/layout23/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout23/episode_log.yaml",
+          "sha256": "40feeb05109fa633fc67e8925423e9ff902963fda176edd7e1e0ee9494a6a77e",
+          "bytes": 14609
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout23/results.yaml",
+          "sha256": "600a85f6bb4043f8cdac0a248bec40a4041b605ee0075b860769e0ae1d531979",
+          "bytes": 307
+        },
+        {
+          "path": "native_results/simplerenv_long/relay7e/layout23/episode_meta.yaml",
+          "sha256": "b9aa93af2db3f9f5f118c70ead9472b0254436058392b5b3e33d260a61fadb35",
+          "bytes": 624
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 0,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 169
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout00__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "748d239e409c566ecd461d19afdc0d6e4fa31f5a8ececf8858713f534c1ff6ed",
+      "native_log": "native_results/simplerenv_long/split3/layout00/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout00/episode_log.yaml",
+          "sha256": "c637c2d2e255e10e4b3abef7dc0c7ac80f70819b75b1a2a83af72533a1fad11d",
+          "bytes": 10267
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout00/results.yaml",
+          "sha256": "b1bbac8b845d6693caf5b4a3ec16f8ec3375faf97051cb6f02be74530c4ef764",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout00/episode_meta.yaml",
+          "sha256": "e1479929c53a6fc215964a6f76ef44de5c9d8a8fa2a378a919e91526024b3991",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 1,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 169
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout01__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "c45da1f211c4a335a62a005ff604cd7537461c9a0be775dfec6177fdd4fde40c",
+      "native_log": "native_results/simplerenv_long/split3/layout01/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout01/episode_log.yaml",
+          "sha256": "dffefad2277471d2340eeb115cc56c5eed39972410ae65abc80ea01280425cc9",
+          "bytes": 10113
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout01/results.yaml",
+          "sha256": "b1bbac8b845d6693caf5b4a3ec16f8ec3375faf97051cb6f02be74530c4ef764",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout01/episode_meta.yaml",
+          "sha256": "e1479929c53a6fc215964a6f76ef44de5c9d8a8fa2a378a919e91526024b3991",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 2,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 214
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout02__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "d1a450a71e99698d67000e418de38f8669a4531deda438ae637a62fc4898281b",
+      "native_log": "native_results/simplerenv_long/split3/layout02/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout02/episode_log.yaml",
+          "sha256": "a8244af1155a322c1414aa6707e4c1ee68f4b7c852f923cc6c6b68ed55201f2e",
+          "bytes": 11097
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout02/results.yaml",
+          "sha256": "872203f19f40aabe5e393d0a66da2760c50c561e90d437c46fc4fc7487b234b8",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout02/episode_meta.yaml",
+          "sha256": "317ff6d2cf5739114dae3047baef084df99a9d02d03b9f92cf1124ce819e13b1",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 3,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 214
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout03__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "40aabb72752804af3457897c8d84b4935de5b7a304477fc64559453e10dcd7f5",
+      "native_log": "native_results/simplerenv_long/split3/layout03/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout03/episode_log.yaml",
+          "sha256": "bcf239c9412a1f913dabc8785ab6b35d8411ef007321080902988d177b769079",
+          "bytes": 11003
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout03/results.yaml",
+          "sha256": "872203f19f40aabe5e393d0a66da2760c50c561e90d437c46fc4fc7487b234b8",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout03/episode_meta.yaml",
+          "sha256": "317ff6d2cf5739114dae3047baef084df99a9d02d03b9f92cf1124ce819e13b1",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 4,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 207
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout04__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "dedffaed35df2f9588a52723e79ae1c41baeb910a7867ef752d6ad04de8acbf8",
+      "native_log": "native_results/simplerenv_long/split3/layout04/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout04/episode_log.yaml",
+          "sha256": "6fbbe1f807d6ffd31a5ef9e5f1879231fb73f3a4b6aa81e21d5d00d10f495f12",
+          "bytes": 12231
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout04/results.yaml",
+          "sha256": "cfb03374f9393fc64d34336b2dfef60035bc1c7ab072aa67fbe712ec63445b12",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout04/episode_meta.yaml",
+          "sha256": "9d1792fa2898812cfcf8e6d2cc4572dfebb685703b5f76feb942b2f1229bfbd7",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 5,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 169
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout05__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "77b35e7faa38062f34ff5211c1dcd9c1e78393adea1040e269ab8e4af768f728",
+      "native_log": "native_results/simplerenv_long/split3/layout05/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout05/episode_log.yaml",
+          "sha256": "fdb1e8ed4c6c20f0b020fb0f7dc47c8f23da1430887ce2de0fc727be22d7ce71",
+          "bytes": 10339
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout05/results.yaml",
+          "sha256": "b1bbac8b845d6693caf5b4a3ec16f8ec3375faf97051cb6f02be74530c4ef764",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout05/episode_meta.yaml",
+          "sha256": "e1479929c53a6fc215964a6f76ef44de5c9d8a8fa2a378a919e91526024b3991",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 6,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 169
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout06__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "83056b74a84761ff4da90c076f8c156dcdd1bd339ac2fb3c5e815387515edd72",
+      "native_log": "native_results/simplerenv_long/split3/layout06/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout06/episode_log.yaml",
+          "sha256": "8f3e92073d33e7f51f8d7f893ff8e8754442b4e7fb8c8064d1b51256d6676d1f",
+          "bytes": 10374
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout06/results.yaml",
+          "sha256": "b1bbac8b845d6693caf5b4a3ec16f8ec3375faf97051cb6f02be74530c4ef764",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout06/episode_meta.yaml",
+          "sha256": "e1479929c53a6fc215964a6f76ef44de5c9d8a8fa2a378a919e91526024b3991",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 7,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 169
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout07__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "c2fe14d8fcd360f544a32d715417ae4f50e04574a178ace49a854d9f223f901b",
+      "native_log": "native_results/simplerenv_long/split3/layout07/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout07/episode_log.yaml",
+          "sha256": "991108c43a1ea20aadc063cc7c56ccf8cd5393aff84fc10242adb5cb4d1a9a26",
+          "bytes": 10197
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout07/results.yaml",
+          "sha256": "b1bbac8b845d6693caf5b4a3ec16f8ec3375faf97051cb6f02be74530c4ef764",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout07/episode_meta.yaml",
+          "sha256": "e1479929c53a6fc215964a6f76ef44de5c9d8a8fa2a378a919e91526024b3991",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 8,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 169
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout08__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "d3b56277b3a596c3ea7fedca360eef99dfe15e593d0179f6ce047ed115040d30",
+      "native_log": "native_results/simplerenv_long/split3/layout08/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout08/episode_log.yaml",
+          "sha256": "62c65b278c7499c2178ac483f9cfbfae8668e3ec1c5520cb1e3299da100473c0",
+          "bytes": 10083
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout08/results.yaml",
+          "sha256": "b1bbac8b845d6693caf5b4a3ec16f8ec3375faf97051cb6f02be74530c4ef764",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout08/episode_meta.yaml",
+          "sha256": "e1479929c53a6fc215964a6f76ef44de5c9d8a8fa2a378a919e91526024b3991",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 9,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 207
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout09__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "fee8b110479fdb578e7aaf7a597ca304b5df784e1428375740c9310c3fef9f49",
+      "native_log": "native_results/simplerenv_long/split3/layout09/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout09/episode_log.yaml",
+          "sha256": "90711a3ead7b89b17a4815e37ad5cc4b1bb84ea28659379afb8a3da73cf67b2f",
+          "bytes": 11853
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout09/results.yaml",
+          "sha256": "cfb03374f9393fc64d34336b2dfef60035bc1c7ab072aa67fbe712ec63445b12",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout09/episode_meta.yaml",
+          "sha256": "9d1792fa2898812cfcf8e6d2cc4572dfebb685703b5f76feb942b2f1229bfbd7",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 10,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 169
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout10__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "3dde90a451e7311a1aa72708b3318337a82533dc827b01f7ced1f7162009f0ec",
+      "native_log": "native_results/simplerenv_long/split3/layout10/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout10/episode_log.yaml",
+          "sha256": "3ca7c26e682ad8c60ea6b04be8d118e3d4abdbc379e42a1a94ee69b9d76bbf62",
+          "bytes": 9955
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout10/results.yaml",
+          "sha256": "b1bbac8b845d6693caf5b4a3ec16f8ec3375faf97051cb6f02be74530c4ef764",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout10/episode_meta.yaml",
+          "sha256": "e1479929c53a6fc215964a6f76ef44de5c9d8a8fa2a378a919e91526024b3991",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 11,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 186
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout11__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "e833c10edf1c637ba238685a6814dc9e58c63178008614c4cf62c6e75e4688ea",
+      "native_log": "native_results/simplerenv_long/split3/layout11/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout11/episode_log.yaml",
+          "sha256": "183d94a3a70198a8fbb2b8683791f2edf59c26544209dcaf5e8bbc084931701e",
+          "bytes": 10243
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout11/results.yaml",
+          "sha256": "03787d20f79692f6705b2328118ae97eb1c83bfd14ee2fb9bad8670280cdc02e",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout11/episode_meta.yaml",
+          "sha256": "15588e7445e71c07a8c4c73d6f8768bf5d830e293ec058a55f66d421dde49275",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 12,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 186
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout12__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "9bb57f9dda387aaaf8b69d1360d3e1e56ed365ba60765be098b3465c6532ad19",
+      "native_log": "native_results/simplerenv_long/split3/layout12/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout12/episode_log.yaml",
+          "sha256": "851bdbf1008736775705c0eada691b821a19e2b4dacb0bef7f0a10254ed82cc0",
+          "bytes": 10464
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout12/results.yaml",
+          "sha256": "03787d20f79692f6705b2328118ae97eb1c83bfd14ee2fb9bad8670280cdc02e",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout12/episode_meta.yaml",
+          "sha256": "15588e7445e71c07a8c4c73d6f8768bf5d830e293ec058a55f66d421dde49275",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 13,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 197
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout13__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "f1719ec2a78ae9209b458fb1ee602a5c0d4aba18f7c587e53daae020333ce630",
+      "native_log": "native_results/simplerenv_long/split3/layout13/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout13/episode_log.yaml",
+          "sha256": "f9d472ff9ee58ee05c8cc9fcb20d7d09196134e769e4153a5753ca4d1d207d46",
+          "bytes": 11195
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout13/results.yaml",
+          "sha256": "b4ab123fd61d5dc9165e006f082247fdb620384a777f9f97eb5adafcac852e71",
+          "bytes": 305
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout13/episode_meta.yaml",
+          "sha256": "52520f0bfcdcca3cdea2d0039acf158e28ac35c4b4a4374e4af4ad84d313523e",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 14,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 169
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout14__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "2a75a53b3bcad6fe3e4d02f5c3b1de7fbc0e176fa48771401cad5c744daf3b14",
+      "native_log": "native_results/simplerenv_long/split3/layout14/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout14/episode_log.yaml",
+          "sha256": "2eae27f7c41977feae95f10061475e0e9f394e4d3a65c25b4d059dd991266f6d",
+          "bytes": 10118
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout14/results.yaml",
+          "sha256": "b1bbac8b845d6693caf5b4a3ec16f8ec3375faf97051cb6f02be74530c4ef764",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout14/episode_meta.yaml",
+          "sha256": "e1479929c53a6fc215964a6f76ef44de5c9d8a8fa2a378a919e91526024b3991",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 15,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 169
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout15__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "cd2802cd976c8fc719d8bc8c3acfb13c959bf686e14d205add92485d98d9f736",
+      "native_log": "native_results/simplerenv_long/split3/layout15/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout15/episode_log.yaml",
+          "sha256": "438578d178125ba44c3f360db0753dd8c6c06508a7ac32c5a07f60d1fa9b09a1",
+          "bytes": 9916
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout15/results.yaml",
+          "sha256": "b1bbac8b845d6693caf5b4a3ec16f8ec3375faf97051cb6f02be74530c4ef764",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout15/episode_meta.yaml",
+          "sha256": "e1479929c53a6fc215964a6f76ef44de5c9d8a8fa2a378a919e91526024b3991",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 16,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 224
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout16__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "d950d1b42b852d197219f4513efe95e861ba164d22f96f02e2debb6cdf065afd",
+      "native_log": "native_results/simplerenv_long/split3/layout16/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout16/episode_log.yaml",
+          "sha256": "56b1afffc2721731dc608c7425e116dfa6187b3c6bf0230385debf0f823b60f4",
+          "bytes": 12141
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout16/results.yaml",
+          "sha256": "eaaeee54af20bbbd95ab0f15681c955a16481e12acd0924a8217ec113c0dce9c",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout16/episode_meta.yaml",
+          "sha256": "06e9f6022285d213a86edd3bc05dffb8cd07fbe9ad2e674d2a11543fca39b4b8",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 17,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 225
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout17__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "3ecfe8599e42c9c71f3f74b1577fb0eece80e568b4779c6aa343b79c0f1e5fd6",
+      "native_log": "native_results/simplerenv_long/split3/layout17/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout17/episode_log.yaml",
+          "sha256": "4af1c8fda66da951192060c5a947d8b0ed1dc915a33aadf8814431d6c5f87cfa",
+          "bytes": 11739
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout17/results.yaml",
+          "sha256": "4b14d93d36e09e301e5a8d63d822662a38de7718fee59bc98cb503cf94b1a238",
+          "bytes": 305
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout17/episode_meta.yaml",
+          "sha256": "48b9ec06fa4d8e763405cef49de0cb12d2db33c17b95d76c1ca6008979dee2bc",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 18,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 169
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout18__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "4ecba91360f84f48a5c689e5f360d6ffb3a259c16b91480ea66afe75d69217d1",
+      "native_log": "native_results/simplerenv_long/split3/layout18/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout18/episode_log.yaml",
+          "sha256": "9dec30a5f4377d177c2a5fdcb558227e968f804d84fb83ed4dc6a01349e7a15f",
+          "bytes": 9917
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout18/results.yaml",
+          "sha256": "b1bbac8b845d6693caf5b4a3ec16f8ec3375faf97051cb6f02be74530c4ef764",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout18/episode_meta.yaml",
+          "sha256": "e1479929c53a6fc215964a6f76ef44de5c9d8a8fa2a378a919e91526024b3991",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 19,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 169
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout19__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "62d06afb60744594c9f98c31b5f111f633092b4732b9b7a2591e2b8e16f65ad8",
+      "native_log": "native_results/simplerenv_long/split3/layout19/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout19/episode_log.yaml",
+          "sha256": "e81ed872376230b7134eb18c664fa71f38aa76ba46f0b62c3dba094b124e8e57",
+          "bytes": 10215
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout19/results.yaml",
+          "sha256": "b1bbac8b845d6693caf5b4a3ec16f8ec3375faf97051cb6f02be74530c4ef764",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout19/episode_meta.yaml",
+          "sha256": "e1479929c53a6fc215964a6f76ef44de5c9d8a8fa2a378a919e91526024b3991",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 20,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 169
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout20__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "bfa9e52d635de850220ff2d4ba88650b68f0c873b0a573aaf768e86922cfd5f1",
+      "native_log": "native_results/simplerenv_long/split3/layout20/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout20/episode_log.yaml",
+          "sha256": "05d790efa7947bb297bdd7d1b515ef973d5924eea201700f34d913edffb1ddb7",
+          "bytes": 10212
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout20/results.yaml",
+          "sha256": "b1bbac8b845d6693caf5b4a3ec16f8ec3375faf97051cb6f02be74530c4ef764",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout20/episode_meta.yaml",
+          "sha256": "e1479929c53a6fc215964a6f76ef44de5c9d8a8fa2a378a919e91526024b3991",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 21,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 182
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout21__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "ea7646fe247433011caa6a6c25bf5b58556f07f1c1bc9ae5a90af3ce59b90824",
+      "native_log": "native_results/simplerenv_long/split3/layout21/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout21/episode_log.yaml",
+          "sha256": "73e416d5f2fe0ea5d38bf4a610cada99be05d525c2af15eb62d13e1a805fe554",
+          "bytes": 10450
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout21/results.yaml",
+          "sha256": "1f666d4cd22ed435a25c3d61eefbf56d9101b1251ba9bf7482074ee7d111565f",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout21/episode_meta.yaml",
+          "sha256": "5f778964c07a1021fdb3e83596e8f39448df1cfda83c8d5155b8f5dd28afe88e",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 22,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 186
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout22__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "4487572c27b290c9764df7af6b8955e98015a5fa17cd89ca7f974b9c34cb59a9",
+      "native_log": "native_results/simplerenv_long/split3/layout22/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout22/episode_log.yaml",
+          "sha256": "d70866d5c77630afa240da894f523c27979b9371a915af32d5fa20e2c721ce99",
+          "bytes": 10274
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout22/results.yaml",
+          "sha256": "03787d20f79692f6705b2328118ae97eb1c83bfd14ee2fb9bad8670280cdc02e",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout22/episode_meta.yaml",
+          "sha256": "15588e7445e71c07a8c4c73d6f8768bf5d830e293ec058a55f66d421dde49275",
+          "bytes": 266
+        }
+      ]
+    },
+    {
+      "outcome": {
+        "suite": "simplerenv_long",
+        "task": "split3",
+        "episode": 23,
+        "success": true,
+        "subgoals_done": 3,
+        "subgoals": 3,
+        "steps": 197
+      },
+      "model": "qwen3.8-max",
+      "video": "videos/simplerenv_long__split3__layout23__Qwen3.8-Max__SUCCESS.mp4",
+      "video_sha256": "05af6ac51fccb2ab9252668d9c844877d592c6f9a9e6efd56cd00f851d3cd4a1",
+      "native_log": "native_results/simplerenv_long/split3/layout23/episode_log.yaml",
+      "native_log_entry_index": 0,
+      "files": [
+        {
+          "path": "native_results/simplerenv_long/split3/layout23/episode_log.yaml",
+          "sha256": "b33567e563ef70ba1cf7b1ffcf5186f43da7075018db31fc9c95a35ae3ddb2c1",
+          "bytes": 10816
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout23/results.yaml",
+          "sha256": "94f09ee7a4c5eb592c9e8b49ed5d13de3261ef0dada5a5020b37e95007748080",
+          "bytes": 282
+        },
+        {
+          "path": "native_results/simplerenv_long/split3/layout23/episode_meta.yaml",
+          "sha256": "52520f0bfcdcca3cdea2d0039acf158e28ac35c4b4a4374e4af4ad84d313523e",
+          "bytes": 266
+        }
+      ]
+    }
+  ],
+  "model": "qwen3.8-max",
+  "episode_count": 112,
+  "video_count": 112
+}

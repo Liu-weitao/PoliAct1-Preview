@@ -1,0 +1,8 @@
+episode_index: 1
+num_steps: 250
+success: true
+env_name: robot_arena_scene54_split_3
+default_instruction: put the spoon and the corn cob on the cloth and put the chicken
+  drumstick in the pot
+instruction: put the spoon and the corn cob on the cloth and put the chicken drumstick
+  in the pot

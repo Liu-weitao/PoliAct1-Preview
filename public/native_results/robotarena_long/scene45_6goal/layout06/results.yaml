@@ -1,0 +1,15 @@
+widowx:
+  robot_arena_scene45_6goal:
+    any_goal: 1/1
+    failure_dropped: 0/1
+    failure_no_grasp: 0/1
+    failure_stuck: 0/1
+    goal_progress: 3/6
+    goal_progress_best: 4/6
+    goal_regression: 1/6
+    grasp_churn: 10/6
+    instruction_churn: 1/6
+    recovery_rate: 2/3
+    steps_per_goal: 277/4
+    success: 0/1
+    success_terminal: 0/1

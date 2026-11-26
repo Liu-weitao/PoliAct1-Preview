@@ -1,0 +1,9 @@
+episode_index: 1
+num_steps: 4950
+success: false
+env_name: CompRoute10Task
+default_instruction: put the banana, the lemon and the lime on the plate and put both
+  oranges, the avocado, the onion, the lychee, the pumpkin and the pomegranate in
+  the bin
+instruction: put the banana, the lemon and the lime on the plate and put both oranges,
+  the avocado, the onion, the lychee, the pumpkin and the pomegranate in the bin
